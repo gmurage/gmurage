@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gmurage
-- 👀 I’m interested in coding for data science using python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on exploratory data analysis
+- 👀 I’m interested in coding data science using python,and R
+- 🌱 I’m currently using python for exploratory Data Analysis
+- 💞️ I am learning to to use KNIME workflow for Inferential and Predictive Analysis
 - 📫 How to reach me gnmurage@gmail.com
 
 <!---
