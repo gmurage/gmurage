@@ -7,4 +7,4 @@ I enjoy Predictive Modeling with both supervised and unsupervised machine learni
 I have expertise in creating regresion models, classification, clustering and ensemble algorithms.
 I am an expert at looking for uncovered insights in data, and communicating findings to various stakeholders in a clear none jargon communication style.
 I graduate with my Data Science PHD in 2027. I just finsihed my second year this spring and love being a data scientist.
-📫 How to reach me? G.murage3271@o365.ncu.edu
+📫 How to reach me? G.murage3271@o365.ncu.edu. https://www.linkedin.com/in/Gladysmurage
