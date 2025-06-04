@@ -1,33 +1,43 @@
-## Introduction
-😁 Greetings, my name is Gladys Murage a PHD Data Science student at National University, San Diego, California. USA. 
-I am trained to code using Python, R, My SQL workbench, and KNIME.
-I enjoy using Python and R for Exploratory Data Analysis (EDA), and Predictive Modeling.
-I have used KNIME workflow for Inferential and Predictive Analysis.
-I have completed learning Databases and Business Intelligence using My SQL Workbench.
-I enjoy Predictive Modeling with both supervised and unsupervised machine learning algorithims
-I have expertise in creating regresion models, classification, clustering and ensemble algorithms.
-I am an expert at looking for uncovered insights in data, and communicating findings to various stakeholders in a clear none jargon communication style.
-I graduate with my Data Science PHD in 2027. I just finsihed my second year this spring and love being a data scientist.
-📫 How to reach me? G.murage3271@o365.ncu.edu. https://www.linkedin.com/in/Gladysmurage
+# Hi there, I'm Gladys Murage 👋
 
-## Project Portfolio
-https://github.com/users/gmurage/projects/1
-https://github.com/users/gmurage/projects/2
-https://github.com/users/gmurage/projects/3
+I'm an accomplished Data Scientist and PhD Candidate in Data Science (GPA: 3.86, Expected 2027) with a passion for transforming complex datasets into actionable insights. My expertise spans Healthcare & Biopharmaceuticals, Education & Census Data, as well as Sales & Marketing and Entrepreneurship. I specialize in advanced modeling techniques—from supervised/unsupervised learning to polynomial and spline regression—and I’m dedicated to developing machine learning solutions that optimize outcomes and drive business performance.
 
-## About me
-# 👋 Hi, My name is Gladys Murage 
-### **PHD Data Scientist | Open-Source Enthusiast**  
+## About Me
 
-🔭 I’m currently working on **ETS and ARIMA models**  
-🌱 Learning **Deep Learning**  
-💬 Ask me about **Python, R, KNIME or My SQL Workbench**  
+- 🎓 **PhD Candidate in Data Science** at National University
+- 💡 Passionate about leveraging AI and machine learning to solve real-world problems
+- 🏥 Deep experience in Healthcare Analytics & Biopharmaceuticals
+- 📊 Extensive background in Education & Census Data Analytics
+- 📈 Proven expertise in Sales & Marketing and Entrepreneurship
+- 🔧 Skilled in Python, R, SQL, and a wide range of data science tools and libraries
 
-## **🛠️ Tech Stack**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+## Technical Skills
 
-## **📊 GitHub Stats**  
-[(https://github.com/gmurage)](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+- **Languages & Tools:**  
+  - **Programming:** Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib), R, SQL  
+  - **Analysis & Visualization:** Jupyter, Google Colab, Tableau  
+  - **Machine Learning:** Supervised/Unsupervised Learning, Neural Networks (PyTorch, TensorFlow), Ensemble Methods (Random Forest, XGBoost, SVM)  
+  - **Advanced Modeling:** Polynomial Regression, Spline Regression, ETS, ARIMA/SARIMA  
+  - **Platforms:** KNIME, GitHub, Cloud (Azure, AWS, GCP)  
+  - **CRM:** Veeva, Salesforce.com
 
-## **📫 Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gladysmurage/)  
+## Notable Projects
+
+- **Framingham Heart Study Analysis:**  
+  Deployed Logistic Regression, Random Forest, and XGBoost to identify key mortality predictors, providing actionable insights that informed clinical decision support strategies.
+  
+- **Predictive Modeling & EDA Pipelines:**  
+  Automated data mining and web scraping pipelines, reducing manual effort by 50%, and delivered predictive models achieving up to 99% precision.
+  
+- **Sales & Marketing Analytics:**  
+  Designed customer segmentation models and leveraged CRM platforms to drive strategic business campaigns, demonstrating a blend of technical acumen and industry expertise.
+
+Explore my repositories for more detailed examples of my work and feel free to reach out if you’d like to collaborate!
+
+## Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/gladysmurage](https://www.linkedin.com/in/gladysmurage)  
+- **Email:** gmurage@outlook.com  
+- **GitHub:** [github.com/gmurage](https://github.com/gmurage)
+
+Thanks for stopping by my profile. Let’s build innovative solutions together!
