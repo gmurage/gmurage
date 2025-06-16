@@ -21,18 +21,84 @@ I'm an accomplished Data Scientist and PhD Candidate in Data Science (GPA: 3.86,
   - **Platforms:** KNIME, GitHub, Cloud (Azure, AWS, GCP)  
   - **CRM:** Veeva, Salesforce.com
 
-## Notable Projects
+## Machine Learning & Data Science
+### Framingham Heart Study Analysis
 
-- **Framingham Heart Study Analysis:**  
-  Deployed Logistic Regression, Random Forest, and XGBoost to identify key mortality predictors, providing actionable insights that informed clinical decision support strategies.
-  
-- **Predictive Modeling & EDA Pipelines:**  
-  Automated data mining and web scraping pipelines, reducing manual effort by 50%, and delivered predictive models achieving up to 99% precision.
-  
-- **Sales & Marketing Analytics:**  
-  Designed customer segmentation models and leveraged CRM platforms to drive strategic business campaigns, demonstrating a blend of technical acumen and industry expertise.
+- Identifies key risk factors for mortality using machine learning models
 
-Explore my repositories for more detailed examples of my work and feel free to reach out if you’d like to collaborate!
+- Implements Logistic Regression, Random Forest, and XGBoost
+
+- Provides insights to improve preventive healthcare strategies
+
+### Time-Series Store Sales Forecasting
+
+- Predicts future store sales using time-series models
+
+- Applies ETS and ARIMA forecasting techniques
+
+- Helps businesses optimize inventory and sales decisions
+
+### Unsupervised Machine Learning for Wine Data
+
+- Clusters wine samples based on characteristics using unsupervised learning
+
+- Uses PCA to reduce dimensionality and K-means for clustering
+
+- Supports sommelier decision-making and product differentiation
+
+### Obesity Risk Prediction Models
+
+- Classifies obesity risk factors using various machine learning models
+
+- Implements XGBoost, Random Forest, Decision Tree, Elastic Net, Bagging, LDA, SVM, Naive Bayes, and Multinomial Logistic Regression
+
+- Can assist healthcare professionals in early intervention strategies
+
+### Abalone Age Prediction Models
+
+- Predicts the number of rings in abalones (age indicator)
+
+- Applies Generalized Additive Models (GAM), Cubic Spline Regression, Principal Component Regression (PCR), Elastic Net, and Random Forest vs. XGBoost
+
+- Enhances seafood industry insights for sustainable harvesting
+
+### Exploratory & Analytical Work
+#### Horsepower vs. MPG Prediction
+
+- Analyzes vehicle fuel efficiency trends using non-linear regression
+
+- Uses Polynomial Regression, Cubic Spline, and GAM models
+
+- Helps inform automotive engineering decisions for improved fuel economy
+
+#### Exploratory Data Analysis (EDA)
+
+- Conducts detailed statistical analysis for data insights
+
+- Utilizes descriptive statistics and visualization techniques
+
+- Supports data-driven decision-making across industries
+
+### Database & Business Intelligence Project
+
+- Develops and analyzes a structured database using MySQL Workbench
+
+- Focuses on database management and optimization
+
+- Provides business intelligence insights
+
+### Portfolio & GitHub Contributions
+#### Gladys Murage Data Science Portfolio
+
+- A curated collection showcasing various data science projects
+
+- Organizes work for professional presentation
+
+#### GitHub Repo Management & Contributions
+
+- Demonstrates proficiency in version control and project organization
+
+- Includes cloned repositories and hands-on GitHub exploration
 
 ## Connect with Me
 
