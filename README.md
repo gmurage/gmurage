@@ -1,20 +1,20 @@
 # Hi there, I'm Gladys Murage 👋
 
-I'm an accomplished Data Scientist and PhD Candidate in Data Science (GPA: 3.86, Expected 2027) with a passion for transforming complex datasets into actionable insights. My expertise spans Healthcare & Biopharmaceuticals, Education & Census Data, as well as Sales & Marketing and Entrepreneurship. I specialize in advanced modeling techniques—from supervised/unsupervised learning to polynomial and spline regression—and I’m dedicated to developing machine learning solutions that optimize outcomes and drive business performance.
+I'm an accomplished Data Scientist and PhD Candidate in Data Science (GPA: 3.86, Expected 2027) with a passion for transforming complex datasets into actionable insights. My domain expertise spans Healthcare, Biopharmaceuticals, Education, Census Data, Sales, Marketing, and Entrepreneurship. I specialize in advanced modeling techniques,from supervised/unsupervised learning to polynomial and spline regression,and I am dedicated to developing machine learning solutions that optimize outcomes and drive business performance.
 
 ## About Me
 
 - 🎓 **PhD Candidate in Data Science** at National University
 - 💡 Passionate about leveraging AI and machine learning to solve real-world problems
-- 🏥 Deep experience in Healthcare Analytics & Biopharmaceuticals
-- 📊 Extensive background in Education & Census Data Analytics
-- 📈 Proven expertise in Sales & Marketing and Entrepreneurship
-- 🔧 Skilled in Python, R, SQL, and a wide range of data science tools and libraries
+- 🏥 Deep experience in Healthcare Analytics and Biopharmaceuticals
+- 📊 Extensive background in Education and Census Data Analytics
+- 📈 Proven expertise in Sales, Marketing, and Entrepreneurship
+- 🔧 Skilled in Python, R, MySQL, and a wide range of data science tools and libraries
 
 ## Technical Skills
 
 - **Languages & Tools:**  
-  - **Programming:** Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib), R, SQL  
+  - **Programming:** Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib), R, MySQL  
   - **Analysis & Visualization:** Jupyter, Google Colab, Tableau  
   - **Machine Learning:** Supervised/Unsupervised Learning, Neural Networks (PyTorch, TensorFlow), Ensemble Methods (Random Forest, XGBoost, SVM)  
   - **Advanced Modeling:** Polynomial Regression, Spline Regression, ETS, ARIMA/SARIMA  
