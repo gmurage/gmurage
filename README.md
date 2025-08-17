@@ -2,15 +2,10 @@
 
 ## PROFESSIONAL SUMMARY
 AI-focused Data Scientist and current PhD Candidate (GPA: 3.89, Expected 2027) with 4+ years of experience specializing in
-
 transforming complex datasets into strategic initiatives that boost business and clinical performance. Experienced in healthcare, sales
-
 analytics, crime prediction, forecasting, customer segmentation and education, showcasing expertise with projects such as developing
-
 predictive models with over 96% accuracy and boosting student engagement by 70% through data-driven curriculum enhancements.
-
 Committed to leveraging AI, advanced analytics ,and machine learning techniques to support innovation and drive insightful solutions
-
 in dynamic settings.
 
 ## About Me
