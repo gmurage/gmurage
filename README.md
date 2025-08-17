@@ -1,16 +1,62 @@
 # Hi there, I'm Gladys Murage 👋
 
-I'm an accomplished Data Scientist and PhD Candidate in Data Science (GPA: 3.86, Expected 2027) with a passion for transforming complex datasets into actionable insights. My domain expertise spans Healthcare, Biopharmaceuticals, Education, Census Data, Sales, Marketing, and Entrepreneurship. I specialize in advanced modeling techniques,from supervised/unsupervised learning to polynomial and spline regression,and I am dedicated to developing machine learning solutions that optimize outcomes and drive business performance.
+## PROFESSIONAL SUMMARY
+AI-focused Data Scientist and current PhD Candidate (GPA: 3.89, Expected 2027) with 4+ years of experience specializing in
+
+transforming complex datasets into strategic initiatives that boost business and clinical performance. Experienced in healthcare, sales
+
+analytics, crime prediction, forecasting, customer segmentation and education, showcasing expertise with projects such as developing
+
+predictive models with over 96% accuracy and boosting student engagement by 70% through data-driven curriculum enhancements.
+
+Committed to leveraging AI, advanced analytics ,and machine learning techniques to support innovation and drive insightful solutions
+
+in dynamic settings.
 
 ## About Me
 
-- 🎓 **PhD Candidate in Data Science** at National University
-- 💡 Passionate about leveraging AI and machine learning to solve real-world problems
-- 🏥 Deep experience in Healthcare Analytics and Biopharmaceuticals
-- 📊 Extensive background in Education and Census Data Analytics
-- 📈 Proven expertise in Sales, Marketing, and Entrepreneurship
-- 🔧 Skilled in Python, R, MySQL, and a wide range of data science tools and libraries
+🎓 PhD Candidate in Data Science at National University (Graduation expected in 2027)
 
+Data Scientist at Bizmpya.com with nearly 4 years of hands-on experience driving data-driven insights and strategies.
+
+Data Science Intern at Huntershightech.com (6 months) specializing in predictive modeling and data analytics.
+
+## 💡 Passionate About:
+
+- Harnessing AI and machine learning to solve complex, real-world problems.
+
+- Applying advanced predictive analytics to transform industries like Healthcare and Biopharmaceuticals with cutting-edge ML techniques.
+
+## 📊 Specializations:
+
+- Predictive Analytics in healthcare, business, real estate, sales, crime prediction, Education & Census Data: Utilizing machine learning to extract insights and forecast trends.
+
+- Inventory Forecasting: Expertise in using time series models (ETS, ARIMA, SARIMA) to optimize store inventory management.
+
+- Classification & Regression: Proficient in ensemble methods (XGBoost, Random Forest, Bagging), decision trees, LDA, logistic regression, and KNN.
+
+- Linear Regression: Applying regression techniques to real-world scenarios, such as predicting housing prices, college GPA, and used vehicle prices.
+
+- Dimensionality Reduction: Extensive experience with PCA to reduce data complexity while retaining key information.
+
+- Regularized Regression: Skilled in using Elastic Net, Lasso, and Ridge regression for model optimization.
+
+- Advanced Predictive Methods: Strong expertise in SVM, Naive Bayes, and Polynomial Regression for classification and regression tasks.
+
+- Clustering & Customer Segmentation: Proficient in K-means and Hierarchical Clustering for market segmentation and targeted strategies.
+
+## 🔧 Technical Proficiencies:
+
+- Programming: Python, R, MySQL.
+
+- Data Science Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, and more.
+
+- Advanced ML Techniques: Hyperparameter tuning, cross-validation, and feature engineering to maximize model performance.
+
+## 📈 Business Acumen: 
+- Proven expertise in Sales, Marketing, and Entrepreneurship, combining data insights with strategic decision-making.
+- Excellent ability to convey complex scientific knowldge in an easy to understand way to stakeholders using created data visualizations to show and tell.
+  
 ## Technical Skills
 
 - **Languages & Tools:**  
