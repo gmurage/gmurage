@@ -63,6 +63,36 @@ Data Science Intern at Huntershightech.com (6 months) specializing in predictive
   - **CRM:** Veeva, Salesforce.com
 
 ## Machine Learning & Data Science
+### Evaluate and Contrast the Classification Techniques
+#### Heart Disease Prediction — Summary
+
+- Dataset: 303 patient records; 13 clinical features; binary classification task.
+
+- Tools and libraries: Implemented in Python using scikit-learn.
+
+- Models compared: Logistic Regression, Random Forest, k-Nearest Neighbors (k-NN).
+
+- Workflow: Data preprocessing, cross‑validated training, hyperparameter tuning, and evaluation with standard performance metrics.
+
+- Top result: Logistic Regression achieved the best performance (85.7% accuracy), strongest generalization, and the most favorable bias‑variance tradeoff.
+
+- Model strengths: Logistic Regression — interpretable and computationally efficient for structured, linearly separable data.
+
+- Random Forest findings: Identified feature importance (chest pain type strongest predictor); showed overfitting tendencies and required careful tuning to control variance.
+
+- k-NN findings: Underperformed; sensitive to feature representation and scales poorly in higher dimensions.
+
+##### Practical guidance:
+
+- Use Logistic Regression for small-to-medium, structured, interpretable problems.
+
+- Use Random Forest for larger, complex datasets with careful tuning.
+
+- Use k-NN only for small, low-dimensional problems with rigorous preprocessing.
+
+##### Conclusion
+Algorithm choice should balance accuracy, interpretability, computational cost, and dataset characteristics to match research objectives.
+
 ### Framingham Heart Study Analysis
 
 - Identifies key risk factors for mortality using machine learning models
