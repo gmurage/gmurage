@@ -1,7 +1,7 @@
 # Hi there, I'm Gladys Murage 👋
 
 ## PROFESSIONAL SUMMARY
-AI-focused Data Scientist and current PhD Candidate (GPA: 3.89, Expected 2027) with 4+ years of experience specializing in
+AI-focused Senior Data Scientist and current PhD Candidate (GPA: 3.89, Expected 2027) with 4+ years of experience specializing in
 transforming complex datasets into strategic initiatives that boost business and clinical performance. Experienced in healthcare, sales
 analytics, crime prediction, forecasting, customer segmentation and education, showcasing expertise with projects such as developing
 predictive models with over 96% accuracy and boosting student engagement by 70% through data-driven curriculum enhancements.
@@ -12,9 +12,11 @@ in dynamic settings.
 
 🎓 PhD Candidate in Data Science at National University (Graduation expected in 2027)
 
-Data Scientist at Bizmpya.com with nearly 4 years of hands-on experience driving data-driven insights and strategies.
+Senior Data Scientist I at Zotec Partners LLC since Jan 2026.
 
-Data Science Intern at Huntershightech.com (6 months) specializing in predictive modeling and data analytics.
+Past Data Scientist at Bizmpya.com with nearly 4 years of hands-on experience driving data-driven insights and strategies.
+
+Past Data Science Intern at Huntershightech.com (6 months) specializing in predictive modeling and data analytics.
 
 ## 💡 Passionate About:
 
